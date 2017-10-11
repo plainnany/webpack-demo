@@ -78,7 +78,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 function component(){
     var element = __WEBPACK_IMPORTED_MODULE_1_jquery___default()('<div></div>');
     /* lodash is required for the next line to work */
-    element.html(__WEBPACK_IMPORTED_MODULE_0_lodash___default.a.join(['Hi','webpack lalalala'], ' '));
+    element.html(__WEBPACK_IMPORTED_MODULE_0_lodash___default.a.join(['Hello','webpack lalalalahhahhahha'], ' '));
     console.log('方方的教程')
     return element.get(0);
     
